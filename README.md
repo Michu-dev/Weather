@@ -1,3 +1,8 @@
+# Weather
+My weather app, made using React. It enables to search for a city and returns 5-day weather. The responses are fetched from openweather API.
+![Zrzut ekranu 2021-08-02 165121](https://user-images.githubusercontent.com/72170326/127886803-02d59b5a-bbec-4df2-88ca-1eb5b2ffc27c.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
